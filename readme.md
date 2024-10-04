@@ -1,1 +1,1 @@
-4-10 -> Algoritmos de ordenação
+4/10 -> Algoritmos de ordenação
