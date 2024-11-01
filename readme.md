@@ -2,3 +2,6 @@
 
 
 18/10 -> Listas ligadas
+
+
+1/11 -> Filas e pilhas
