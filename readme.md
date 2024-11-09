@@ -5,3 +5,6 @@
 
 
 1/11 -> Filas e pilhas
+
+
+9/11 -> Árvores binárias
